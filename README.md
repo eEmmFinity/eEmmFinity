@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Emam Ul Haque Emon, CS student. 👋
 
 
 **eEmmFinity/eEmmFinity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
