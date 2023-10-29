@@ -1,13 +1,40 @@
-### Hi there 👋, I am Emam Ul Haque Emon
+<h2> Hey there! I'm Emam Ul Haque Emon. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-Skills:  C / C++ / JS / HTML / CSS / Bootstrap
+<h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 I’m currently working on Programming and Problem Solving 
-- 🌱 I’m currently learning C++ 
-- 👯 I’m looking to collaborate on Open Source Project 
-- 💬 Ask me about CP 
-- 📫 How to reach me: emam5316@gmail.com 
- 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/eEmmFinity)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/emam-ul-haque-emon-805ba8160//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/emamulhaque.emon.31/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/EmamUlHaqueEmo4)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/18374500/emam-ul-haque-emon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCOUv3PE4n8-pwvULMIvSY7w)  
+- 🔭 &nbsp; I’m currently learning Web Application Development
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Computer Science, Computer Science and Engineering.
+- 💼 &nbsp; front-end web developer.
+- 🌱 &nbsp; Enthusiast in Machince learning and Artificial Intelligence .
+- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
+- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; C | C++ | Java | Python
+- 🌐 &nbsp; Web | HTML | CSS | JavaScript | Bootstrap 
+- 🛢 &nbsp; Xampp
+- 🔧 &nbsp; Android Studio | IntellijIDEA | Visual Studio code | Eclipse | Git 
+- 🖥 &nbsp; Adobe Xd | Photoshop | Figma
+
+<br>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=devSouvik&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
+
+</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
 
 
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+&nbsp; <a href="https://twitter.com/EmamUlHaqueEmo3" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
+&nbsp; <a href="https://www.instagram.com/emam_ul_haque_emon/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/emam-ul-haque-emon-805ba8160/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="emam5316@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
+
+⭐️ From [Emam UL Haque Emon]([https://github.com/devSouvik](https://github.com/eEmmFinity)https://github.com/eEmmFinity)
