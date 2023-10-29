@@ -16,7 +16,7 @@
 - 💻 &nbsp; C | C++ | Java | Python
 - 🌐 &nbsp; Web | HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; Xampp
-- 🔧 &nbsp; Android Studio | IntellijIDEA | Visual Studio code | Eclipse | Git 
+- 🔧 &nbsp; IntellijIDEA | Visual Studio code | Git | Bash 
 - 🖥 &nbsp; Adobe Xd | Photoshop | Figma
 
 <br>
